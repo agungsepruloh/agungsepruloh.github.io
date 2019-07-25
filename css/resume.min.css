@@ -198,3 +198,8 @@ a:focus,
 a:hover {
     color: #17a2b8
 }
+
+.desc {
+    font-size: small;
+    text-align: center;
+}
