@@ -20,7 +20,7 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(255, 255, 255, 1);
     backdrop-filter: blur(10px);
     z-index: 1000;
     transition: all 0.3s ease;
@@ -119,7 +119,7 @@ header p {
     opacity: 0.9;
 }
 section {
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(255, 255, 255, 1);
     margin: 2rem 2rem;
     padding: 3rem;
     border-radius: 10px;
@@ -499,7 +499,7 @@ footer {
         left: -100%;
         top: 70px;
         flex-direction: column;
-        background: rgba(255, 255, 255, 0.95);
+        background: rgba(255, 255, 255, 1);
         width: 100%;
         text-align: center;
         transition: 0.3s;

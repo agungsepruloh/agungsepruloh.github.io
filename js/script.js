@@ -43,7 +43,7 @@ const siteContent = {
     },
     about: {
         title: 'About Me',
-        description: "Full Stack Engineer with over 6 years of experience in the IT industry, specializing in ERP systems and software development. Proficient in technologies including Odoo, Python, JavaScript, Flutter, and various databases. Committed to delivering innovative, efficient solutions that enhance business operations. Holds a Bachelor's degree in Informatics Engineering from Universitas Komputer Indonesia. Throughout my career, I have led development teams, integrated complex systems, and contributed to open-source projects. I am passionate about continuous learning and staying updated with the latest technologies. In my free time, I enjoy contributing to the tech community through creating custom modules and research."
+        description: "Full Stack Engineer with over 6 years of experience in the IT industry, specializing in ERP systems and software development. Proficient in technologies including Odoo, Python, JavaScript, Flutter, and various databases. Committed to delivering innovative, efficient solutions that enhance business operations. Holds a Bachelor's degree in Informatics Engineering from Universitas Komputer Indonesia. Throughout my career, I have led development teams, integrated complex systems, and contributed to open-source projects. I am passionate about continuous learning and staying updated with the latest technologies. In my free time, I enjoy contributing to the tech community through creating custom modules and conducting research."
     },
     skillsSection: {
         title: 'Skills',
